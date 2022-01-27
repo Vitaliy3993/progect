@@ -2,9 +2,7 @@
 
 /* let numberOfFilms;
 
-function numberOfFilms
-
-start(); */
+function numberOfFilms*/
 
 const personalMovieDB = {
     count: 0,
@@ -31,7 +29,6 @@ const personalMovieDB = {
                 i--;
             }
         }
-    
         while (i < 2);
     },
     detectPersonalLevel: function() {
